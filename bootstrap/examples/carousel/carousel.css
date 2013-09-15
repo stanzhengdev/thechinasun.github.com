@@ -24,6 +24,7 @@ body {
 /* Flip around the padding for proper display in narrow viewports */
 .navbar-wrapper .container {
   padding-left: 0;
+  position:fixed;
   padding-right: 0;
 }
 .navbar-wrapper .navbar {
